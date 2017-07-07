@@ -7,7 +7,7 @@
 
 import os
 
-def clear_screen():
+def clear():
     osname = os.name
     if osname == 'posix':
         os.system('clear')
@@ -18,5 +18,5 @@ def clear_screen():
     return osname
 
 if __name__ == "__main__":
-    clear_screen()
+    clear()
 
