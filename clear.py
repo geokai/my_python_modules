@@ -1,3 +1,7 @@
+# This file was created on 07/07/2017
+# Author: George Kaimakis
+
+
 # this module determines the operating system type and provides the
 # appropriate terminal scroll-back clearing (screen clear):
 
